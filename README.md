@@ -18,7 +18,7 @@
       <li> 🤖Graduanda em Análise e Desenvolvimento de Sistemas </li>
       <br>
       <li> 
-        <img alt="Ems-WS" height="42" width="50" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHC9VRmv1mGmg/company-logo_200_200/0/1584405698732?e=2159024400&v=beta&t=-j9Ga4jmC65HxP5K-FPyS1KEyGh_6y6NQ8O9Cy5wJII">    
+        <img alt="Ems-WS" height="42" width="50" src="https://github.com/Emillyvll/image/blob/main/ws.gif">    
      Estágiaria de Service Desk na Wilson Sons!👩🏽‍💻</li>
     </ul>
   </header> 
