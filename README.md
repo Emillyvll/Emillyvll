@@ -27,7 +27,7 @@
 
   <div align="center">
     <header>
-       <h1>💻My github achievements💻</h1>
+       <h1>💻My github achievements🤩</h1>
        <h2 align="center">
         <a>
           <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="480" height="207" frameBorder="0" class="giphy-embed">
